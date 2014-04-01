@@ -1,0 +1,4 @@
+ninjashortcode
+==============
+
+shortcodes in PHP
